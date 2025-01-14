@@ -39,6 +39,6 @@ Results-driven ReactJS Developer with over 3.8 years of experience in the bankin
 ## Contact
 Feel free to reach out to me for any inquiries or collaboration opportunities.
 
-- Email: [your-email@example.com](mailto:saketrajabhishek@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saketrajabhishek)
+- Email: [saketrajabhishek@gmail.com](mailto:saketrajabhishek@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/saketabhishek/)
 - GitHub: [Your GitHub Profile](https://github.com/saketrajabhishek)
